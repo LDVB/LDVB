@@ -1,5 +1,8 @@
+![Laura del VAlle](https://user-images.githubusercontent.com/94763722/164191336-bceaff3c-cb36-46bf-a2f6-5c0d42f0106c.png)
+
+
+
 ### Hi there 👋
-![Laura del VAlle](https://user-images.githubusercontent.com/94763722/164190927-a20353f0-39c7-4a8d-b06c-c858b987b089.png)
 
 <!--
 **LDVB/LDVB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
