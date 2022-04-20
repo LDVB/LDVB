@@ -11,9 +11,9 @@ You can find me in
 
 
 
-###You can reach me at:
+### You can reach me at:
 📫 l.delvallebermejo@gmail.com 
-https://www.linkedin.com/in/laura-del-valle-07721190/ 
+
 ☎️ (+34)644408061
 
 
