@@ -1,4 +1,5 @@
-![Laura del VAlle](https://user-images.githubusercontent.com/94763722/164191336-bceaff3c-cb36-46bf-a2f6-5c0d42f0106c.png)
+
+![Profile Image](https://user-images.githubusercontent.com/94763722/164191931-676445b6-e16c-42ea-a483-3efe0cf5f7d4.png)
 
 
 
