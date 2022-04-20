@@ -5,9 +5,16 @@
 
 ### Hi! 👋
 
-My name is Laura del Valle, and i´m a FullStack Developer, I just finished the web development bootcamp at IronHack. I´m from Spain, living in Madrid and currently searching for a job
-You can find me in ![image](https://user-images.githubusercontent.com/94763722/164194385-41a6f25a-28b0-4cb4-af28-eff570410fff.png), or in ![image](https://user-images.githubusercontent.com/94763722/164194754-86eed3e6-8688-4984-8805-ba3490ee4a49.png)
+My name is Laura del Valle, and i´m a FullStack Developer, I just finished the web development bootcamp at IronHack. I'm in a continuous learning process, discovering new technologies and facing new challenges.
+I´m from Spain, living in Madrid and currently searching for a job
+You can find me in 
 
+
+
+###You can reach me at:
+📫 l.delvallebermejo@gmail.com 
+https://www.linkedin.com/in/laura-del-valle-07721190/ 
+☎️ (+34)644408061
 
 
 
